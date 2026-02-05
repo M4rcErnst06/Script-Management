@@ -6,3 +6,8 @@ hello
 3
 4
 4
+
+Get-AutologgerConfig
+
+Get-AutologgerConfig
+
